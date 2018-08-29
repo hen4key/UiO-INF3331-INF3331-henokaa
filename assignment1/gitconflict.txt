@@ -1,5 +1,2 @@
-Here’s a line
+﻿Hello world from everyone!
 
-Hello world from B!
-
-Here’s another line
